@@ -1,0 +1,4 @@
+server:
+  port: 8081
+k8s:
+  master: https://192.168.148.128:8443/
